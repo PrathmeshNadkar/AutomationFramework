@@ -1,1 +1,1 @@
-Learning Test Automation Framework
+Learning Test Automation suite
